@@ -1,0 +1,2 @@
+backups/*.tar
+backups/docker-images-*.tar
