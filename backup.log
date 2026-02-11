@@ -1,0 +1,10 @@
+mié 11 feb 2026 15:38:35 CET: 🚀 Iniciando backup
+mié 11 feb 2026 15:38:37 CET: ✅ Nginx config OK (16K	/home/nemesino/backups/nginx-config-20260211_1538.tar.gz)
+mié 11 feb 2026 15:38:38 CET: ✅ Web files OK (4,0K	/home/nemesino/backups/web-files-20260211_1538.tar.gz)
+mié 11 feb 2026 15:38:38 CET: ✅ Docker container OK (156M	/home/nemesino/backups/nginx-container-20260211_1538.tar)
+mié 11 feb 2026 15:38:38 CET: 🎉 Backup COMPLETADO. Total: 1,5G	/home/nemesino/backups
+mié 11 feb 2026 15:40:33 CET: 🚀 Iniciando backup
+mié 11 feb 2026 15:40:33 CET: ✅ Nginx config OK (16K	/home/nemesino/backups/nginx-config-20260211_1540.tar.gz)
+mié 11 feb 2026 15:40:33 CET: ✅ Web files OK (4,0K	/home/nemesino/backups/web-files-20260211_1540.tar.gz)
+mié 11 feb 2026 15:40:34 CET: ✅ Docker container OK (156M	/home/nemesino/backups/nginx-container-20260211_1540.tar)
+mié 11 feb 2026 15:40:34 CET: 🎉 Backup COMPLETADO. Total: 1,6G	/home/nemesino/backups
