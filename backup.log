@@ -58,3 +58,24 @@ jue 12 feb 2026 06:52:37 CET: 🎉 Backup COMPLETADO. Total: 2,5G	/home/nemesino
 ✅ Logs OK (4,0K	/home/nemesino/backups/apache-logs-20260212_0652.tar.gz)
 🎉 Backup APACHE COMPLETADO 2,5G	/home/nemesino/backups
 === GIT ===
+[main 82b9ec1] Dual backup 2026-02-12 - Nginx+Apache
+ 2 files changed, 39 insertions(+)
+ create mode 100755 backup-apache.sh
+To https://github.com/nemesinosisno-png/-sysadmin-portfolio-nemesino-.git
+   6a2ef1a..82b9ec1  main -> main
+✅ DUAL STACK COMPLETADO jue 12 feb 2026 06:53:42 CET
+=== NGINX ===
+jue 12 feb 2026 17:00:21 CET: 🚀 Iniciando backup
+tar: Eliminando la `/' inicial de los nombres
+jue 12 feb 2026 17:00:21 CET: ✅ Nginx config OK (16K	/home/nemesino/backups/nginx-config-20260212_1700.tar.gz)
+tar: Eliminando la `/' inicial de los nombres
+jue 12 feb 2026 17:00:21 CET: ✅ Web files OK (4,0K	/home/nemesino/backups/web-files-20260212_1700.tar.gz)
+jue 12 feb 2026 17:00:22 CET: ✅ Docker container OK (156M	/home/nemesino/backups/nginx-container-20260212_1700.tar)
+jue 12 feb 2026 17:00:22 CET: 🎉 Backup COMPLETADO. Total: 2,8G	/home/nemesino/backups
+=== APACHE ===
+🚀 jue 12 feb 2026 17:00:22 CET: Iniciando backup APACHE
+✅ Apache config OK (40K	/home/nemesino/backups/apache-config-20260212_1700.tar.gz)
+✅ Web files OK (4,0K	/home/nemesino/backups/apache-web-20260212_1700.tar.gz)
+✅ Logs OK (4,0K	/home/nemesino/backups/apache-logs-20260212_1700.tar.gz)
+🎉 Backup APACHE COMPLETADO 2,8G	/home/nemesino/backups
+=== GIT ===
