@@ -19,3 +19,9 @@ Nuevo backup mié 11 feb 2026 22:00:29 CET
 Último Docker: -rw-r--r-- 1 nemesino nemesino 156M feb 11 22:13 /home/nemesino/backups/nginx-container-20260211_2213.tar
 2026-02-12 06:13: Backup OK - 2,1G total
 Último Docker: -rw-r--r-- 1 nemesino nemesino 156M feb 11 22:13 /home/nemesino/backups/nginx-container-20260211_2213.tar
+🚀 jue 12 feb 2026 06:14:28 CET: Iniciando backup Apache
+✅ Apache config OK (4,0K	/home/nemesino/backups/apache-config-20260212_0614.tar.gz)
+✅ Web files OK (4,0K	/home/nemesino/backups/apache-web-20260212_0614.tar.gz)
+🎉 Backup Apache COMPLETADO 2,1G	/home/nemesino/backups
+2026-02-12 06:44: Backup OK - 2,4G total
+Último Docker: -rw-r--r-- 1 nemesino nemesino 156M feb 12 06:39 /home/nemesino/backups/nginx-container-20260212_0639.tar
