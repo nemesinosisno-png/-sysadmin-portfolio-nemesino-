@@ -38,3 +38,23 @@ bash: /backup-apache.sh: No existe el fichero o el directorio
 🎉 Backup APACHE COMPLETADO 2,4G	/home/nemesino/backups
 2026-02-12 06:49: Backup OK - 2,4G total
 Último Docker: -rw-r--r-- 1 nemesino nemesino 156M feb 12 06:39 /home/nemesino/backups/nginx-container-20260212_0639.tar
+🚀 jue 12 feb 2026 06:49:59 CET: Iniciando backup APACHE
+✅ Apache config OK (4,0K	/home/nemesino/backups/apache-config-20260212_0649.tar.gz)
+✅ Web files OK (4,0K	/home/nemesino/backups/apache-web-20260212_0649.tar.gz)
+✅ Logs OK (4,0K	/home/nemesino/backups/apache-logs-20260212_0649.tar.gz)
+🎉 Backup APACHE COMPLETADO 2,4G	/home/nemesino/backups
+=== NGINX ===
+jue 12 feb 2026 06:52:21 CET: 🚀 Iniciando backup
+tar: Eliminando la `/' inicial de los nombres
+jue 12 feb 2026 06:52:36 CET: ✅ Nginx config OK (16K	/home/nemesino/backups/nginx-config-20260212_0652.tar.gz)
+tar: Eliminando la `/' inicial de los nombres
+jue 12 feb 2026 06:52:36 CET: ✅ Web files OK (4,0K	/home/nemesino/backups/web-files-20260212_0652.tar.gz)
+jue 12 feb 2026 06:52:37 CET: ✅ Docker container OK (156M	/home/nemesino/backups/nginx-container-20260212_0652.tar)
+jue 12 feb 2026 06:52:37 CET: 🎉 Backup COMPLETADO. Total: 2,5G	/home/nemesino/backups
+=== APACHE ===
+🚀 jue 12 feb 2026 06:52:37 CET: Iniciando backup APACHE
+✅ Apache config OK (4,0K	/home/nemesino/backups/apache-config-20260212_0652.tar.gz)
+✅ Web files OK (4,0K	/home/nemesino/backups/apache-web-20260212_0652.tar.gz)
+✅ Logs OK (4,0K	/home/nemesino/backups/apache-logs-20260212_0652.tar.gz)
+🎉 Backup APACHE COMPLETADO 2,5G	/home/nemesino/backups
+=== GIT ===
