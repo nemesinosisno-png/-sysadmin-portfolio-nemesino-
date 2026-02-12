@@ -31,3 +31,10 @@ bash: /home/nemesino/backup-apache.sh: No existe el fichero o el directorio
 bash: /backup-apache.sh: No existe el fichero o el directorio
 2026-02-12 06:49: Backup OK - 2,4G total
 Último Docker: -rw-r--r-- 1 nemesino nemesino 156M feb 12 06:39 /home/nemesino/backups/nginx-container-20260212_0639.tar
+🚀 jue 12 feb 2026 06:49:12 CET: Iniciando backup APACHE
+✅ Apache config OK (4,0K	/home/nemesino/backups/apache-config-20260212_0649.tar.gz)
+✅ Web files OK (4,0K	/home/nemesino/backups/apache-web-20260212_0649.tar.gz)
+✅ Logs OK (4,0K	/home/nemesino/backups/apache-logs-20260212_0649.tar.gz)
+🎉 Backup APACHE COMPLETADO 2,4G	/home/nemesino/backups
+2026-02-12 06:49: Backup OK - 2,4G total
+Último Docker: -rw-r--r-- 1 nemesino nemesino 156M feb 12 06:39 /home/nemesino/backups/nginx-container-20260212_0639.tar
